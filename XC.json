@@ -1357,7 +1357,7 @@
     {
       "name": "Yoursmile",
       "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "http://tvapi.chenfengtv.com/api/zip/txtzztv/202609301140/kds_all_nmlt_c9c6aa0bb85b5559a88dfca789f76777.txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
